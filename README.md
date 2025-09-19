@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santos Chandu
+# 👋 Hi, I'm Santosh Chandu
 
 ## Quantum Computing | Robotics | Cybersecurity Enthusiast
 
