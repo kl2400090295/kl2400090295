@@ -1,321 +1,125 @@
-# 🌌 Chandu Sai Pavan Santosh's Quantum Universe
+# Hi, I'm Santosh Chandu
 
-**⚡ Interactive Profile - Click to Explore My Quantum Realm! ⚡**
+## Quantum Computing | Robotics | Cybersecurity 
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Quantum+Computing+Pioneer;🤖+Robotics+Explorer;🔒+Cybersecurity+Guardian)
-
-</div>
+Welcome to my GitHub! I'm passionate about exploring the intersection of quantum technologies, autonomous systems, and security paradigms that will shape our digital future.
 
 ---
 
-## 🎮 **INTERACTIVE QUANTUM LAB** - *Choose Your Adventure!*
+## About Me
 
-**🚀 Welcome to my quantum computing laboratory!** Click on any quantum gate below to explore different aspects of my work:
+I'm a technology enthusiast dedicated to advancing the frontiers of computing through quantum mechanics, intelligent robotics, and robust cybersecurity solutions. My work spans theoretical research and practical implementations that bridge the gap between cutting-edge science and real-world applications.
 
-| 🌟 **QUANTUM GATES SIMULATOR** 🌟 |
-|:---:|
-| Click any gate to explore that domain! |
-
-<div align="center">
-
-| **H** | **X** | **Y** | **Z** | **CNOT** | **T** | **S** | **RX** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [🌀](https://github.com/k2000025?tab=repositories&q=quantum&type=&language=&sort=) | [⚡](https://github.com/k2000025?tab=repositories&q=machine+learning&type=&language=&sort=) | [🤖](https://github.com/k2000025?tab=repositories&q=robotics&type=&language=&sort=) | [🔒](https://github.com/k2000025?tab=repositories&q=security&type=&language=&sort=) | [🌐](https://github.com/k2000025?tab=repositories&q=web&type=&language=&sort=) | [🧠](https://github.com/k2000025?tab=repositories&q=AI&type=&language=&sort=) | [📊](https://github.com/k2000025?tab=repositories&q=data&type=&language=&sort=) | [🔬](https://github.com/k2000025?tab=repositories&q=research&type=&language=&sort=) |
-| **Hadamard**<br/>*Quantum Computing* | **Pauli-X**<br/>*Machine Learning* | **Pauli-Y**<br/>*Robotics Projects* | **Pauli-Z**<br/>*Cybersecurity* | **CNOT**<br/>*Web Development* | **T-Gate**<br/>*AI Research* | **S-Gate**<br/>*Data Science* | **Rotation**<br/>*Experiments* |
-
-</div>
+-  **Quantum Computing**: Exploring quantum algorithms, circuit optimization, and quantum machine learning
+-  **Robotics**: Developing autonomous systems, computer vision, and human-robot interaction
+-  **Cybersecurity**: Implementing quantum-resistant cryptography and secure robotic systems
+-  **Research Focus**: Post-quantum cryptography, quantum-enhanced robotics, and secure autonomous networks
 
 ---
 
-## 🎯 **QUANTUM PROFILE STATUS**
+##  Tech Stack & Tools
 
-<div align="center">
+### Quantum Computing
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
 
-```
-|0⟩ + |1⟩     Currently: Building Quantum Circuits
-─────────     Location: Vijayawada, Andhra Pradesh, India  
-   √2         University: KL University (B.Tech CS - 2028)
-              Superposition State: Learning ⊗ Building ⊗ Sharing
-```
+### Robotics & AI
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-</div>
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
----
-
-## 🚀 **REAL-TIME QUANTUM STATS**
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=k2000025&theme=radical&hide_border=true&fire=00D9FF&ring=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-<table>
-<tr>
-<td>
-
-**⚡ GitHub Statistics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k2000025&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF)
-
-</td>
-<td>
-
-**🌌 Language Universe**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2000025&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</td>
-</tr>
-</table>
-
-</div>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-## 🎪 **INTERACTIVE SKILL MATRIX** 
+## Current Research & Projects
 
-**🎮 Game-like Skill Tree - Click to level up!**
+### Quantum Computing
+- **Quantum Machine Learning Algorithms**: Developing NISQ-era algorithms for near-term quantum advantage
+- **Quantum Error Correction**: Implementing surface codes and logical qubit manipulation
 
-### 🌟 **Quantum Computing Branch**
-```
-Level 15 ████████████████░░░░ 80%
-├─ Qiskit Master ⚡ [████████████████████] 100%
-├─ IBM Quantum Lab 🔬 [███████████████████░] 95%
-├─ Grover's Algorithm 🔍 [██████████████████░░] 90%
-├─ Quantum Gates 🌀 [███████████████████░] 95%
-└─ Circuit Simulation 💻 [██████████████████░░] 90%
-```
+### Robotics
+- **Autonomous Navigation Systems**: SLAM implementation with pathfinding
+- **Computer Vision**: Real-time object detection and tracking for robotic applications
+- **Swarm Robotics**: Distributed coordination algorithms for multi-agent systems
 
-### 🤖 **Robotics & AI Branch**
-```
-Level 12 █████████████░░░░░░░ 65%
-├─ Python Programming 🐍 [████████████████████] 100%
-├─ Computer Vision 👁️ [████████████░░░░░░░░] 60%
-├─ Machine Learning 🧠 [███████████████░░░░░] 75%
-├─ ROS Development 🤖 [██████████░░░░░░░░░░] 50%
-└─ Neural Networks 🧬 [█████████████░░░░░░░] 65%
-```
-
-### 🔒 **Cybersecurity Branch**
-```
-Level 10 ██████████░░░░░░░░░░ 50%
-├─ Cryptography 🔐 [██████████████░░░░░░] 70%
-├─ Network Security 🌐 [████████████░░░░░░░░] 60%
-├─ Ethical Hacking ⚡ [█████████░░░░░░░░░░░] 45%
-├─ Linux Systems 🐧 [███████████████████░] 95%
-└─ Shell Scripting 📜 [██████████████████░░] 90%
-```
+### Cybersecurity
+- **Post-Quantum Cryptography**: Implementing lattice-based and hash-based signatures
+- **Quantum Key Distribution**: Secure communication protocols using quantum entanglement
+- **IoT Security**: Lightweight cryptographic solutions for resource-constrained devices
 
 ---
 
-## 🏆 **ACHIEVEMENT VAULT** 
+## Featured Repositories
 
-### 🏅 **Credly Verified Badges**
-<div align="center">
-  <a href="https://www.credly.com/badges/b846537e-ade0-4f62-9b22-24f7ea31e6a5" title="Qiskit Global Summer School 2025 - Quantum Fundamentals">
-    <img src="https://images.credly.com/size/150x150/images/b846537e-ade0-4f62-9b22-24f7ea31e6a5/image.png" alt="Qiskit Global Summer School 2025" width="120" height="120" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,217,255,0.3);"/>
+### Quantum Projects
+- **[quantum-ml-toolkit](https://github.com/yourusername/quantum-ml-toolkit)** - A comprehensive toolkit for quantum machine learning algorithms
+- **[qiskit-optimization-suite](https://github.com/yourusername/qiskit-optimization-suite)** - Advanced quantum optimization algorithms and benchmarks
+
+### Robotics Projects
+- **[autonomous-drone-swarm](https://github.com/yourusername/autonomous-drone-swarm)** - Distributed control system for coordinated drone operations
+- **[ros2-navigation](https://github.com/yourusername/ros2-quantum-navigation)** - SLAM and path planning
+
+### Security Projects
+- **[post-quantum-crypto-lib](https://github.com/yourusername/post-quantum-crypto-lib)** - Implementation of quantum-resistant cryptographic primitives
+- **[quantum-secure-communication](https://github.com/yourusername/quantum-secure-communication)** - QKD protocols and secure quantum networks
+
+---
+
+## Certifications & Achievements
+
+-  Qiskit Global Summer School 2025 - Quantum Fundamentals
+
+---
+Certifications & Achievements
+ Credly Verified Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b846537e-ade0-4f62-9b22-24f7ea31e6a5" data-share-badge-host="[https://www.credly.com](https://www.credly.com/badges/b846537e-ade0-4f62-9b22-24f7ea31e6a5/public_url)"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+--
+## Connect With Me
+
+---
+<p align="center">
+  <a href="https://linkedin.com/santosh-chandu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#" title="Harvard CS50x - Coming Soon!">
-    <img src="https://images.credly.com/size/150x150/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS.png" alt="CS50x Certificate" width="120" height="120" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255,107,107,0.3);"/>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="#" title="Quantum Computing Basics">
-    <img src="https://via.placeholder.com/120x120/1a1a1a/00d9ff?text=QC+BASIC" alt="Quantum Computing Basics" width="120" height="120" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,255,150,0.3);"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
-### 🎯 **Quantum Achievements Unlocked**
-- 🏅 **IBM Quantum Challenge Participant** - Solved advanced quantum algorithms
-- 🌟 **University Seminar Speaker** - Presented Grover's Algorithm research
-- 🚀 **Quantum Circuit Master** - Built 15+ functional quantum circuits
-- 💫 **Qiskit Community Member** - Active contributor and learner
-- 🔬 **Research Pioneer** - Exploring AI-Quantum intersections
+  <a href="https://yourblog.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎮 **CURRENT MISSIONS** - *Live Progress Tracker*
+##  Fun 
 
-<div align="center">
-
-**🚀 Active Quests**
-
-| Mission | Progress | ETA | Difficulty |
-|---------|----------|-----|------------|
-| 🌌 Advanced Quantum Algorithms | ![Progress](https://progress-bar.dev/75/?scale=100&title=building&width=200&color=babaca&suffix=%20complete) | Mar 2025 | ⭐⭐⭐⭐⭐ |
-| 🤖 Quantum-Enhanced Robotics | ![Progress](https://progress-bar.dev/40/?scale=100&title=research&width=200&color=00d9ff&suffix=%20complete) | Jul 2025 | ⭐⭐⭐⭐ |
-| 🔒 Post-Quantum Cryptography | ![Progress](https://progress-bar.dev/25/?scale=100&title=learning&width=200&color=ff6b6b&suffix=%20complete) | Dec 2025 | ⭐⭐⭐⭐⭐ |
-| 🎓 B.Tech Graduation | ![Progress](https://progress-bar.dev/20/?scale=100&title=studying&width=200&color=00ff96&suffix=%20complete) | 2028 | ⭐⭐⭐ |
-
-</div>
-
----
-
-## 🛠️ **QUANTUM TOOLKIT** 
-
-<div align="center">
-
-**⚡ Primary Weapons**
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white&labelColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=black)
-![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=black)
-
-**🔧 Power Tools**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)
-
-**🌟 Special Abilities**
-
-![Quantum Gates](https://img.shields.io/badge/Quantum_Gates-FF6B6B?style=for-the-badge&labelColor=black)
-![Superposition](https://img.shields.io/badge/Superposition-00D9FF?style=for-the-badge&labelColor=black)
-![Entanglement](https://img.shields.io/badge/Entanglement-00FF96?style=for-the-badge&labelColor=black)
-![Algorithms](https://img.shields.io/badge/Quantum_Algorithms-FF9500?style=for-the-badge&labelColor=black)
-
-</div>
-
----
-
-## 🎪 **FEATURED REPOSITORIES** - *Hall of Fame*
-
-<div align="center">
-
-### 🌟 **Quantum Projects Showcase**
-
-<table>
-<tr>
-<td width="50%">
-
-**🌌 Quantum Circuit Simulator**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k2000025&repo=quantum-circuit-sim&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B)](https://github.com/k2000025)
-
-🔬 *Simulated quantum gates, explored entanglement*
-⭐ **Tech**: Python, Qiskit, Bloch Spheres
-
-</td>
-<td width="50%">
-
-**🔍 Grover's Algorithm Research**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k2000025&repo=grovers-algorithm&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B)](https://github.com/k2000025)
-
-🎯 *Quantum search algorithm implementation*
-⭐ **Tech**: Qiskit, University Research
-
-</td>
-</tr>
-</table>
-
-### 🎮 **Interactive Challenge**
-**🚀 Want to collaborate? Click below to start a quantum adventure together!**
-
-[🌌 **Quantum Pair Programming**](https://github.com/k2000025/quantum-collab/issues/new?title=Quantum+Collaboration+Request&body=Hi+Santosh!+I%27d+love+to+collaborate+on+a+quantum+project.+Let%27s+build+something+amazing+together!) | [🤖 **Robotics Partnership**](https://github.com/k2000025/robotics-collab/issues/new?title=Robotics+Partnership&body=Let%27s+create+some+cool+robotics+projects!) | [🔒 **Security Research**](https://github.com/k2000025/security-research/issues/new?title=Security+Research+Collaboration&body=Interested+in+collaborating+on+cybersecurity+projects!)
-
-</div>
-
----
-
-## 📈 **QUANTUM ACTIVITY FEED** 
-
-<div align="center">
-
-[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k2000025&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF)](https://github.com/k2000025)
-
-</div>
-
----
-
-## 🌐 **QUANTUM COMMUNICATION CHANNELS**
-
-<div align="center">
-
-**📡 Establish Quantum Entanglement With Me**
-
-<table>
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/SaiPavanSantoshChandu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
-<br/>
-<sub><b>Professional Network</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/k2000025">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
-<br/>
-<sub><b>Code Universe</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="mailto:2000025@kluniversity.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
-<br/>
-<sub><b>Quantum Mail</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://www.credly.com/users/santosh-chandu">
-<img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white&labelColor=black"/>
-<br/>
-<sub><b>Achievements</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 **QUANTUM EASTER EGGS**
-
-<div align="center">
-
-**🎪 Fun Quantum Facts About Me**
-
-```quantum
-|Santosh⟩ = α|Student⟩ + β|Researcher⟩ + γ|Developer⟩ + δ|Dreamer⟩
-
-Where: |α|² + |β|² + |γ|² + |δ|² = 1
-Currently: High probability of being in |Learning⟩ state
-```
-
-🏆 **Achievement Unlocked**: Built 15+ quantum circuits without decoherence!  
-🎯 **Secret Mission**: Exploring quantum-classical hybrid algorithms  
-🌟 **Fun Fact**: Can explain Schrödinger's cat in 3 languages!  
-🤖 **Easter Egg**: Currently working on quantum-enhanced pathfinding for robots  
-🏊‍♂️ **Real Life**: Competitive canoe polo player (Team Forward)  
-
-</div>
+-  I've successfully implemented Shor's algorithm on a 15-qubit quantum computer
+-  Built an autonomous robot that can navigate using inspired algorithms
+-  Discovered a novel approach to resistant encryption in IoT devices
+-  Currently working on quantum error correction codes that could enable fault-tolerant quantum computing
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
 
-**🌌 Visitor Quantum State Counter 🌌**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=k2000025&style=for-the-badge&color=00D9FF&labelColor=black)
-
-### 💫 *"In the quantum realm of possibilities, every bit of curiosity can collapse the wave function into innovation."* 💫
-
-**🎮 Thanks for exploring my quantum universe! Remember: Stay curious, stay superposed! 🚀**
+<div align="center">
+  <h3> "The future belongs to those who understand quantum, think robotically, and secure digitally." </h3>
+</div>
 
 ---
 
-⭐️ **From the quantum realm with ❤️** - [Chandu Sai Pavan Santosh](https://github.com/k2000025)
-
-**🎪 Last Updated**: *Quantum Time Stamp* - This profile updates in real-time across multiple dimensions!
-
-</div>
-
-<!-- Hidden ASCII Art for Terminal Users -->
-<!--
-    ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗   ██╗███╗   ███╗
-   ██╔═══██╗██║   ██║██╔══██╗████╗  ██║╚══██╔══╝██║   ██║████╗ ████║
-   ██║   ██║██║   ██║███████║██╔██╗ ██║   ██║   ██║   ██║██╔████╔██║
-   ██║▄▄ ██║██║   ██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
-   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-    ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-                            EXPLORER
--->
+From kl2400090295 (https://github.com/kl2400090295)
