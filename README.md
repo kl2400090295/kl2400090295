@@ -76,15 +76,16 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 
 ## Certifications & Achievements
 
--  IBM Quantum Network Member
--  
--  
--  
+-  Qiskit Global Summer School 2025 - Quantum Fundamentals
 
 ---
-
+Certifications & Achievements
+ Credly Verified Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b846537e-ade0-4f62-9b22-24f7ea31e6a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+--
 ## Connect With Me
 
+---
 <p align="center">
   <a href="https://linkedin.com/santosh-chandu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
