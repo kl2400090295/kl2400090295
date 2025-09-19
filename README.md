@@ -121,4 +121,4 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 
 ---
 
-⭐️ From kl2400090295 (https://github.com/kl2400090295)
+From kl2400090295 (https://github.com/kl2400090295)
