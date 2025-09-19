@@ -81,7 +81,7 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ---
 Certifications & Achievements
  Credly Verified Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b846537e-ade0-4f62-9b22-24f7ea31e6a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b846537e-ade0-4f62-9b22-24f7ea31e6a5" data-share-badge-host="[https://www.credly.com](https://www.credly.com/badges/b846537e-ade0-4f62-9b22-24f7ea31e6a5/public_url)"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 --
 ## Connect With Me
 
