@@ -21,7 +21,6 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 
 ### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-FFD43B?style=for-the-badge)
 ![IBM Quantum](https://img.shields.io/badge/IBM_Quantum-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Robotics & AI
@@ -31,8 +30,6 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Cybersecurity
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
@@ -40,7 +37,6 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ---
 
@@ -49,10 +45,9 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ### Quantum Computing
 - **Quantum Machine Learning Algorithms**: Developing NISQ-era algorithms for near-term quantum advantage
 - **Quantum Error Correction**: Implementing surface codes and logical qubit manipulation
-- **Variational Quantum Algorithms**: Optimizing VQE and QAOA for combinatorial problems
 
 ### Robotics
-- **Autonomous Navigation Systems**: SLAM implementation with quantum-enhanced pathfinding
+- **Autonomous Navigation Systems**: SLAM implementation with pathfinding
 - **Computer Vision**: Real-time object detection and tracking for robotic applications
 - **Swarm Robotics**: Distributed coordination algorithms for multi-agent systems
 
@@ -60,15 +55,6 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 - **Post-Quantum Cryptography**: Implementing lattice-based and hash-based signatures
 - **Quantum Key Distribution**: Secure communication protocols using quantum entanglement
 - **IoT Security**: Lightweight cryptographic solutions for resource-constrained devices
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
-</div>
 
 ---
 
@@ -80,7 +66,7 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 
 ### Robotics Projects
 - **[autonomous-drone-swarm](https://github.com/yourusername/autonomous-drone-swarm)** - Distributed control system for coordinated drone operations
-- **[ros2-quantum-navigation](https://github.com/yourusername/ros2-quantum-navigation)** - Quantum-enhanced SLAM and path planning
+- **[ros2-navigation](https://github.com/yourusername/ros2-quantum-navigation)** - SLAM and path planning
 
 ### Security Projects
 - **[post-quantum-crypto-lib](https://github.com/yourusername/post-quantum-crypto-lib)** - Implementation of quantum-resistant cryptographic primitives
@@ -91,20 +77,9 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ## Certifications & Achievements
 
 -  IBM Quantum Network Member
--  Certified Ethical Hacker (CEH)
--  CISSP - Certified Information Systems Security Professional
--  Winner, Quantum Computing Hackathon 2024
-
----
-
-## Latest Blog Posts & Publications
-
-<!-- BLOG-POST-LIST:START -->
-- [Quantum Advantage in Robotic Path Planning: A Comprehensive Study](https://yourblog.com/quantum-robotics)
-- [Post-Quantum Cryptography: Preparing for the Quantum Threat](https://yourblog.com/post-quantum-crypto)
-- [Securing Autonomous Vehicles in the Quantum Era](https://yourblog.com/quantum-av-security)
-- [Building Quantum-Safe IoT Networks](https://yourblog.com/quantum-iot)
-<!-- BLOG-POST-LIST:END -->
+-  
+-  
+-  
 
 ---
 
@@ -130,9 +105,8 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 ##  Fun 
 
 -  I've successfully implemented Shor's algorithm on a 15-qubit quantum computer
--  Built an autonomous robot that can navigate using quantum-inspired algorithms
--  Discovered a novel approach to quantum-resistant encryption in IoT devices
--  Contributed to open-source quantum computing frameworks used by 1000+ researchers
+-  Built an autonomous robot that can navigate using inspired algorithms
+-  Discovered a novel approach to resistant encryption in IoT devices
 -  Currently working on quantum error correction codes that could enable fault-tolerant quantum computing
 
 ---
