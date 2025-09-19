@@ -116,7 +116,7 @@ I'm a technology enthusiast dedicated to advancing the frontiers of computing th
 </div>
 
 <div align="center">
-  <h3>💫 "The future belongs to those who understand quantum, think robotically, and secure digitally." 💫</h3>
+  <h3> "The future belongs to those who understand quantum, think robotically, and secure digitally." </h3>
 </div>
 
 ---
