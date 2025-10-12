@@ -1,7 +1,6 @@
 # Hi, I'm Santosh Chandu
 
-## Quantum Computing | Robotics | Cybersecurity
-
+## Quantum Computing | Robotics | 
 Welcome to my GitHub! I'm passionate about exploring the intersection of quantum technologies, autonomous systems, and security paradigms that will shape our digital future.
 
 ---
