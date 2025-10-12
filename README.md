@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm passionate about exploring the intersection of quantum
 I'm a technology enthusiast dedicated to advancing the frontiers of computing through quantum mechanics, intelligent robotics, and robust cybersecurity solutions. My work spans theoretical research and practical implementations that bridge the gap between cutting-edge science and real-world applications.
 
 - **Quantum Computing**: Exploring quantum algorithms, circuit optimization, and quantum machine learning
-- **Robotics**: Developing autonomous systems with advanced perception and decision-making capabilities
+- **Robotics**: Developing autonomous systems with advanced perception and decision making capabilities
 
 
 ## 📫 Connect With Me
